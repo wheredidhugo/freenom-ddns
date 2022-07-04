@@ -1,0 +1,5 @@
+node_modules
+testwebsite
+.env
+config.json
+example.png

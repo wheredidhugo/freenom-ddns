@@ -1,0 +1,6 @@
+version: "1.0"
+services:
+  freenom-ddns:
+    image: freenom-ddns:latest
+    container_name: freenom-ddns
+    restart: unless-stopped
